@@ -1,2 +1,3 @@
 # LT.K2025.2-CNTT
-A LT.K2025.2-CNTT Repo.
+
+- A LT.K2025.2-CNTT Repo.
