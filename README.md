@@ -15,6 +15,9 @@
 
 ### 2025 - 2026: Học Kỳ 1
 
+- [IE005 Giới thiệu ngành Công Nghệ Thông Tin](uit/courses/IE005/IE005.md)
+- [MA003 Đại Số Tuyến Tính](uit/courses/MA003/MA003.md)
+
 #### Các Môn Học
 
 | Số Thứ Tự | Mã Môn Học | Tên Môn Học                          | Số Tín Chỉ |
