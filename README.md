@@ -7,6 +7,10 @@
 - Clone.
 - "Open folder as vault".
 
+## Thông báo
+
+* Truy cập các [Thông báo](thongbao/thongbao.md).
+
 ## Kế Hoạch Đào Tạo
 
 ### 2025 - 2026: Học Kỳ 1
