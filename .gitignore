@@ -1,0 +1,7 @@
+# macOS DS_Store
+.DS_Store
+
+# Ignore Obsidian Vault-based settings.
+.obsidian/workspace.json
+.obsidian/graph.json
+
