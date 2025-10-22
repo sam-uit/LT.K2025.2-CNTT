@@ -40,6 +40,7 @@
 
 - [IE005 Giới thiệu ngành Công Nghệ Thông Tin](uit/courses/IE005/IE005.md)
 - [MA003 Đại Số Tuyến Tính](uit/courses/MA003/MA003.md)
+- [IE103 Quản lý thông tin](uit/courses/IE103/IE103.md)
 
 #### Các Môn Học
 
