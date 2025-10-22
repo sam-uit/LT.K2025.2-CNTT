@@ -34,6 +34,12 @@
 | 15  | 25410325 | Nguyễn Văn Trung   | 2000     |                      |                  |
 | 16  | 25410338 | Lê Anh Vũ          | 2001     |                      |                  |
 
+## Chương Trình Đào Tạo Cử Nhân Liên Thông
+
+- [Chương trình đào tạo Cử nhân Liên thông Đại học ngành Công nghệ thông tin – Hình thức đào tạo từ xa (Áp dụng từ khoá tuyển 2024)](https://www.citd.vn/chuong-trinh-dao-tao-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-ap-dung-tu-khoa-tuyen-2024/)
+
+![Phân Bổ Các Khối Kiến Thức](thongbao/assets/phan-bo-khoi-kien-thuc.jpeg)
+
 ## Kế Hoạch Đào Tạo Các Kỳ
 
 1. [2025 - 2026: Học Kỳ 1](2025-2026-HK1.md) (Bấm để xem chi tiết)
