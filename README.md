@@ -60,3 +60,9 @@ timeline
         : IE501 (Đồ Án Tốt Nghiệp)
         : Hoặc IE502 (Đồ Án Tốt Nghiệp tại Doanh Nghiệp)
 ```
+
+## Kế Hoạch Năm Học 2025 - 2026
+
+- https://www.citd.vn/ke-hoach-nam-hoc/
+
+![Kế Hoạch Năm Học 2025 - 2026](thongbao/assets/Ke-Hoach-Nam-Hoc-2025-2026.png)
