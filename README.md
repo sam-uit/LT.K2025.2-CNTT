@@ -34,8 +34,29 @@
 | 15  | 25410325 | Nguyễn Văn Trung   | 2000     |                      |                  |
 | 16  | 25410338 | Lê Anh Vũ          | 2001     |                      |                  |
 
-## Kế Hoạch Đào Tạo
+## Kế Hoạch Đào Tạo Các Kỳ
 
 1. [2025 - 2026: Học Kỳ 1](2025-2026-HK1.md) (Bấm để xem chi tiết)
 2. 2025 - 2026: Học Kỳ 2 (Chưa bổ sung)
 3. 2025 - 2026: Học Kỳ 3 (Chưa bổ sung)
+
+## Kế Hoạch Đào Tạo Tổng Quan
+
+```mermaid
+timeline
+    title Kế Hoạch Đào Tạo
+    HK1 : IE005 (Giới Thiệu Ngành CNTT)
+        : IT007 (Hệ Điều Hành)
+        : MA003 (Đại Số Tuyến Tính)
+        : IE101 (Cơ Sở Hạ Tầng CNTT)
+        : IE103 (Quản Lý Thông Tin)
+    HK2 : IT003 (Cấu Trúc Dữ Liệu và Giải Thuật)
+         : MA004 (Cấu Trúc Rời Rạc)
+         : MA005 (Xác Suất Thống Kê)
+         : IE105 (Nhập Môn Bảo Đảm và An Ninh Thông Tin)
+    HK3 : Các Môn Chuyên Ngành
+        : Chuyên Đề Tốt Nghiệp
+    HK4 : IE505 (Khóa Luận Tốt Nghiệp)
+        : IE501 (Đồ Án Tốt Nghiệp)
+        : Hoặc IE502 (Đồ Án Tốt Nghiệp tại Doanh Nghiệp)
+```
