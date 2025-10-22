@@ -1,0 +1,11 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "monospaceFontFamily": "Iosevka",
+  "enabledCssSnippets": [
+    "callout-checklist"
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "Lora,Avenir Next,Avenir,Helvetica,Optima"
+}
