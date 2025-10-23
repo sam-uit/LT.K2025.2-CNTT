@@ -11,6 +11,12 @@
 
 * Truy cập các [Thông báo](thongbao/thongbao.md).
 
+## Kế Hoạch Đào Tạo Các Kỳ
+
+1. [2025 - 2026: Học Kỳ 1](2025-2026-HK1.md) (Bấm để xem chi tiết)
+2. 2025 - 2026: Học Kỳ 2 (Chưa bổ sung)
+3. 2025 - 2026: Học Kỳ 3 (Chưa bổ sung)
+
 ## NHÓM 1
 
 * Cập nhật thông tin đầy đủ tại [Google Sheets: LT.K2025.2-GROUP-01 (chưa bổ sung)]
@@ -39,12 +45,6 @@
 - [Chương trình đào tạo Cử nhân Liên thông Đại học ngành Công nghệ thông tin – Hình thức đào tạo từ xa (Áp dụng từ khoá tuyển 2024)](https://www.citd.vn/chuong-trinh-dao-tao-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-ap-dung-tu-khoa-tuyen-2024/)
 
 ![Phân Bổ Các Khối Kiến Thức](thongbao/assets/phan-bo-khoi-kien-thuc.jpeg)
-
-## Kế Hoạch Đào Tạo Các Kỳ
-
-1. [2025 - 2026: Học Kỳ 1](2025-2026-HK1.md) (Bấm để xem chi tiết)
-2. 2025 - 2026: Học Kỳ 2 (Chưa bổ sung)
-3. 2025 - 2026: Học Kỳ 3 (Chưa bổ sung)
 
 ## Kế Hoạch Đào Tạo Tổng Quan
 
