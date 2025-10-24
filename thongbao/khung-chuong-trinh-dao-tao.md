@@ -11,7 +11,8 @@ display-mode: table
 
 ### Toán – Tin Học Tự Nhiên (10 TC)
 
-- Đại Số Tuyến Tính (3 TC)    
+- [MA003 Đại Số Tuyến Tính (3 TC)](../uit/courses/MA003/MA003.md)
+    - [2025-2026-HK1](../2025-2026-HK1.md)
 - Cấu Trúc Rời Rạc (4 TC)
 - Xác Suất Thống Kê (3 TC)
 
@@ -19,7 +20,8 @@ display-mode: table
 
 ### Giới Thiệu Ngành (1 TC)
 
-- Giới Thiệu Ngành Công Nghệ Thông Tin (1 TC)    
+- [IE005 Giới Thiệu Ngành Công Nghệ Thông Tin (1 TC)](../uit/courses/IE005/IE005.md)
+    - [2025-2026-HK1](../2025-2026-HK1.md)
 
 ### Kiến Thức Về Lập Trình (4 TC)
 
@@ -27,12 +29,15 @@ display-mode: table
 
 ### Kiến Thức Về Phần Cứng Máy Tính (4 TC)
 
-- Hệ Điều Hành (4 TC)
+- [IT007 Hệ Điều Hành (4 TC)](../uit/courses/IT007/IT007.md)
+    - [2025-2026-HK1](../2025-2026-HK1.md)
 
 ### Kiến Thức Nền Tảng Về Công Nghệ Thông Tin (15 TC)
 
-- Cơ Sở Hạ Tầng Công Nghệ Thông Tin (3 TC)
-- Quản Lý Thông Tin (4 TC)
+- [IE101 Cơ Sở Hạ Tầng Công Nghệ Thông Tin (3 TC)](../uit/courses/IE101/IE101.md)
+    - [2025-2026-HK1](../2025-2026-HK1.md)
+- [IE103 Quản Lý Thông Tin (4 TC)](../uit/courses/IE103/IE103.md)
+    - [2025-2026-HK1](../2025-2026-HK1.md)
 - Nhập Môn Bảo Đảm Và An Ninh Thông Tin (4 TC)
 - Phân Tích Thiết Kế Phần Mềm (4 TC)
 
