@@ -24,60 +24,12 @@
 
 Mô hình:
 
-```mermaid
----
-config:
-  theme: default
-  look: classic
-  layout: dagre
-  themeVariables:
-    fontFamily: Iosevka
-title: Khung Chương Trình Đào Tạo (Tối thiểu 52 tín chỉ)
----
-flowchart TD
- subgraph AA["CÁC MÔN HỌC ĐẠI CƯƠNG (10 TC)"]
-        AAA("Toán - Tin Học - Khoa Học Tự Nhiên (10TC)")
-        AA1>"Đại số tuyến tính (3 TC)"]
-        AA2>"Cấu trúc rời rạc (4 TC)"]
-        AA3>"Xác suất thống kê (3 TC)"]
-  end
- subgraph BB["CÁC MÔN HỌC CƠ SỞ NGÀNH (>= 20 TC)"]
-        BBa("Giới thiệu ngành (1 TC)")
-        BBa1>"Giới thiệu ngành CNTT (1 TC)"]
-        BBb("Kiến Thức Lập Trình (4 TC)")
-        BBb1>"Cấu Trúc Dữ Liệu Và Giải Thuật (4 TC)"]
-        BBc("Kiến Thức Phần Cứng & Hệ Điều Hành (4 TC)")
-        BBc1>"Hệ Điều Hành (4 TC)"]
-        BBd("Kiến Thức Nền Tảng về CNTT (15 TC)")
-        BBd1>"Cơ Sở Hạ Tầng CNTT (3TC)"]
-        BBd2>"Quản Lý Thông Tin (4TC)"]
-        BBd3>"Nhập Môn Bảo Đảm và An Ninh Thông Tin (4 TC)"]
-        BBd4>"Phân Tích Thiết Kế Phần Mềm (4 TC)"]
-  end
- subgraph CC["CÁC MÔN HỌC CHUYÊN NGÀNH (>= 12 TC)"]
-        CC1>"Truyền Thông Xã Hội & Web"]
-        CC2>"Khoa Học Thông Tin"]
-  end
- subgraph DD["TỰ CHỌN TỰ DO (max 4 TC)"]
-        D>"TỰ CHỌN TỰ DO"]
-  end
- subgraph EE["KIẾN THỨC TỐT NGHIỆP (10 TC)"]
-        EE1>"1\. Khóa Luận Tốt Nghiệp"]
-        EE2>"2\. Chuyên Dề & Đồ An"]
-        EE3>"3\. Đồ An Tại Doanh Nghiệp"]
-  end
-    AA --> BB
-    AAA --> AA1 & AA2 & AA3
-    BBa --> BBa1
-    BBb --> BBb1
-    BBc --> BBc1
-    BBd --> BBd1 & BBd2 & BBd3 & BBd4
-    BB -- hoặc --> CC1 & CC2
-    BB -- bổ sung --> DD
-    CC -- hoặc --> EE1 & EE2 & EE3
-```
+- Bổ sung, chỉnh sửa tại: [Mermaid](https://www.mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=toggle#pako:eNp9VN-L41QU_lcOfVg6DxXbzr4UHGhvxunQmThiXHcxPqRppgnT3gxtMu4gwg4LLorCLrv7IKK2DrK6OOyKgpCgPlzp_5H_xO_ctLU_gn1Ic2_Od75zvvud-0nJDXteqVGqVCq2dEN5GvQbtiSKfG_oNUh6Ia8GYXj238K5DOOoQT2nP_KWsXecUeB0B95Yw4lOQxm97QyDwWWDDsOxd3Hm2DIKogGydvxY9kn4s9ezKV6skfpF-vTPYzUJycqSaUhlK0ufBMgcZOnDmG7XKFI3klw_Sz_fsaWu9nQQfuz6zigiywDnOO72R865T83mh3ZJqCtBx-qZSe0s_VIgeZZMDknMXs0m5gGVq2-SJXbs0kd5tfxrNptlu2SFaiqpQlYgGfqVi_eOHzrzBer6lUw_UC8lJ9E5dlZzVPfsEpNNAxqjB4riyyz5W-r6fSrXC2hrgIgs-TGmaKQSl0ZZ-m2AZzJ1qbxbAKgDcFfh6zgGLIJMYIKQZ-rlOoMne6vKtFoFyojZhN7L0u_IPFAPzDaV996i2rY6rZYDdQ5wHt_Mz-VRTLKvJtxVlTaFQDgrURwvTMtagtY4uuDoBFowC0397NJRltycLyyyUGONqFtd6mdp_YwsfUVHOeMdNSEUkVwHSAi1bqIiSVstd4v4xM-SF5IEFpD2Fqv1CDZC2quY2nnfReW4XM7_BK_R9rZoTUAkT8E1WC-wWKh1u4Crp1ufTfkAv0eFyZSRL3i4NKhewMhuezfm_HSk_gSt-p1nEHYv7xaEs9dMXx_CMSKpBWSox-l6SBdQtynJDNDfWqKiVneR6cRXP6A7deMygBuPqIPnQu1jNDxcx294WIgiD7ffv6e-MFctXK1t1SBElQd8hInUGucF31XXnOXrAGf8gdddU1iIGh_Qyvgvm5zHbVRnGKgOd8RrlITKTNLvxjtUHjr3aVsWY68wvLj1_X0k7xxmyV8IRPxPguMfW2i7fZiln50UXmv7-2ySqm2_gXtM_ebQEY8BWyx9EpHZ16N5vgFhk9QYIvz4ku86HDiseEv_PyV1JTcAbJM6A5YB-iYPyAgdmGODJm9M32VUqezBHYtlvsY1Ci7cjPpZzz_iSpkHO9XFTne-013uuPMdd7nTm-_0OCcPQP5Xz_92F2GIIj_Mkj_yDDALAmCA1e_dLH2O84ADOMQw8m9CbGAhObBQUT9RfunTfwHrL5V4)
+- File code tại: [khung-chuong-trinh.mmd](thongbao/assets/khung-chuong-trinh.mmd)
 
-Hình ảnh:
+![](thongbao/assets/khung-chuong-trinh.png)
+
+Hình ảnh gốc:
 
 ![Phân Bổ Các Khối Kiến Thức](thongbao/assets/phan-bo-khoi-kien-thuc.jpeg)
 

@@ -1,0 +1,50 @@
+---
+config:
+  theme: neo
+  look: neo
+  layout: dagre
+  themeVariables:
+    fontFamily: Iosevka
+title: Khung Chương Trình Đào Tạo (Tối thiểu 52 tín chỉ)
+---
+flowchart TD
+ subgraph AA["CÁC MÔN HỌC ĐẠI CƯƠNG (10 TC)"]
+        AAA("Toán - Tin Học - Khoa Học Tự Nhiên (10TC)")
+        AA1>"Đại số tuyến tính (3 TC)"]
+        AA2>"Cấu trúc rời rạc (4 TC)"]
+        AA3>"Xác suất thống kê (3 TC)"]
+  end
+ subgraph BB["CÁC MÔN HỌC CƠ SỞ NGÀNH (>= 20 TC)"]
+        BBa("Giới thiệu ngành (1 TC)")
+        BBa1>"Giới thiệu ngành CNTT (1 TC)"]
+        BBb("Kiến Thức Lập Trình (4 TC)")
+        BBb1>"Cấu Trúc Dữ Liệu Và Giải Thuật (4 TC)"]
+        BBc("Kiến Thức Phần Cứng & Hệ Điều Hành (4 TC)")
+        BBc1>"Hệ Điều Hành (4 TC)"]
+        BBd("Kiến Thức Nền Tảng về CNTT (15 TC)")
+        BBd1>"Cơ Sở Hạ Tầng CNTT (3TC)"]
+        BBd2>"Quản Lý Thông Tin (4TC)"]
+        BBd3>"Nhập Môn Bảo Đảm và An Ninh Thông Tin (4 TC)"]
+        BBd4>"Phân Tích Thiết Kế Phần Mềm (4 TC)"]
+  end
+ subgraph CC["CÁC MÔN HỌC CHUYÊN NGÀNH (>= 12 TC)"]
+        CC1("Truyền Thông Xã Hội & Web")
+        CC2("Khoa Học Thông Tin")
+  end
+ subgraph DD["TỰ CHỌN TỰ DO (max 4 TC)"]
+        D>"TỰ CHỌN TỰ DO"]
+  end
+ subgraph EE["KIẾN THỨC TỐT NGHIỆP (10 TC)"]
+        EE1>"1\. Khóa Luận Tốt Nghiệp"]
+        EE2>"2\. Chuyên Đề & Đồ Án"]
+        EE3>"3\. Đồ Án Tại Doanh Nghiệp"]
+  end
+    AA --> BB
+    AAA --> AA1 & AA2 & AA3
+    BBa --> BBa1
+    BBb --> BBb1
+    BBc --> BBc1
+    BBd --> BBd1 & BBd2 & BBd3 & BBd4
+    BB -- hoặc --> CC1 & CC2
+    BB -- bổ sung --> DD
+    CC -- hoặc --> EE1 & EE2 & EE3
