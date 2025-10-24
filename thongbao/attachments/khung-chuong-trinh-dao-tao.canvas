@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6905f4c05175cc41","type":"group","x":-120,"y":-460,"width":449,"height":560,"color":"1","label":"CÁC MÔN HỌC CƠ SỞ NGÀNH (>= 20 TC)"},
+		{"id":"cabeef306602e155","x":460,"y":-380,"width":545,"height":400,"type":"group","label":"CÁC MÔN HỌC CHUYÊN NGÀNH (>= 12 TC)"},
+		{"id":"d2cc0ab33e8b274b","type":"group","x":-740,"y":-400,"width":360,"height":280,"color":"2","label":"CÁC MÔN HỌC ĐẠI CƯƠNG"},
+		{"id":"533ec96a3a17d977","type":"text","text":"MA003 - Đại Số Tuyến Tính","x":-700,"y":-360,"width":280,"height":50},
+		{"id":"ac6b3f5258272e56","type":"text","text":"Cấu Trúc Rời Rạc","x":-700,"y":-280,"width":280,"height":50},
+		{"id":"040ab34c45ab9abd","type":"text","text":"Xác Suất Thống Kê","x":-700,"y":-200,"width":280,"height":50}
+	],
+	"edges":[
+		{"id":"6bf857645bad84ae","fromNode":"d2cc0ab33e8b274b","fromSide":"right","toNode":"6905f4c05175cc41","toSide":"left"}
+	]
+}
