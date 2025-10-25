@@ -1,6 +1,7 @@
 # Khung Chương Trình Đào Tạo Liên Thông (2025)
 
 - Tham khảo thêm: [Courses List của UIT](https://docs.google.com/spreadsheets/d/1_-sy_Gw9L19xE0Pt_D5bX4cl00X9aAlRmih_wvmJqYU/edit?usp=sharing)
+- Tham chiếu danh sách môn học: https://student.uit.edu.vn/danh-muc-mon-hoc-dai-hoc
 
 | Phần         | Nhóm Môn                           | Mã Môn Học                      | Tên Môn Học                                          | Số TC |                               Học Kỳ | Môn Trước Đó                    |
 | ------------ | ---------------------------------- | ------------------------------- | ---------------------------------------------------- | ----: | -----------------------------------: | ------------------------------- |
