@@ -35,24 +35,9 @@ Hình ảnh gốc:
 
 ## Kế Hoạch Đào Tạo Tổng Quan
 
-```mermaid
-timeline
-    title Kế Hoạch Đào Tạo
-    HK1 : IE005 (Giới Thiệu Ngành CNTT)
-        : IT007 (Hệ Điều Hành)
-        : MA003 (Đại Số Tuyến Tính)
-        : IE101 (Cơ Sở Hạ Tầng CNTT)
-        : IE103 (Quản Lý Thông Tin)
-    HK2 : IT003 (Cấu Trúc Dữ Liệu và Giải Thuật)
-         : MA004 (Cấu Trúc Rời Rạc)
-         : MA005 (Xác Suất Thống Kê)
-         : IE105 (Nhập Môn Bảo Đảm và An Ninh Thông Tin)
-    HK3 : Các Môn Chuyên Ngành
-        : Chuyên Đề Tốt Nghiệp
-    HK4 : IE505 (Khóa Luận Tốt Nghiệp)
-        : IE501 (Đồ Án Tốt Nghiệp)
-        : Hoặc IE502 (Đồ Án Tốt Nghiệp tại Doanh Nghiệp)
-```
+- Code: [Mermaid](https://www.mermaidchart.com/play#pako:eNqFkjFLw1AUhf_KoVM7FNJqFbppFCOtBfUNDl1KjM0D-yKSCCIOnVwVRxFbShEEcVAQEsThif8j_8Tz0gptrZohIbzvnnvOve8s5wb7Xq6aKxaLTeUG6kC2q00FhL7X8apQXtBU2VkoO96hVJ455LEMDz3U0vgdTpDGfdfHx6XuBRD8CUZM2SpXUDSfJTi1EqrYXLesCvIbMk1uJITP70WERlv3lA-7IURhVGke0sKylpF3CFGcbDeCY9ApamvFshaQ_7hkY4ndNLmCiE5pTEHoxxl4c71klZC3P_uGvIPDImP5XrXn9CdM5e0ojQcKdf1Gx_qFpJCqMC9ieWyaRXYaDyOIYx27WEuTJ9RHWU90D4wfD0x8Cj-GEy3HaRany3fS5FbyzSH_ZDnNPd13sUutYUhN5qfDmn6YZk0Wsg2fLY-wxRhYpYsAZm6DTuZrRaEhuYh_Ui5QzjY9MxXbj071gxovcXJ83yfskHQ55OQqJJXt_Gie7mJms2Js1nz93ELdzEfNVM5sqGLWaTpcQ3f_ZM01fXWzkvLvJQiza7QWtDiICZ3c-RdbMCYZ)
+
+![Kế Hoạch Đào Tạo Tổng Quan](thongbao/assets/ke-hoach-dao-tao.png)
 
 ## Kế Hoạch Năm Học 2025 - 2026
 
