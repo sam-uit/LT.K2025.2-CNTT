@@ -43,7 +43,7 @@ display-mode: table
 
 ## Các Môn Học Chuyên Ngành (≥ 12 TC)
 
-> Bao Gồm Cả Số Tín Chỉ Tự Chọn Tự Do
+Bao Gồm Cả Số Tín Chỉ Tự Chọn Tự Do
 
 ### Hướng Truyền Thông Xã Hội Và Công Nghệ Web
 

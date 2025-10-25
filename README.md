@@ -20,7 +20,10 @@
 ## Chương Trình Đào Tạo Cử Nhân Liên Thông
 
 - [Chương trình đào tạo Cử nhân Liên thông Đại học ngành Công nghệ thông tin – Hình thức đào tạo từ xa (Áp dụng từ khoá tuyển 2024)](https://www.citd.vn/chuong-trinh-dao-tao-cu-nhan-lien-thong-nganh-cong-nghe-thong-tin-hinh-thuc-dao-tao-tu-xa-ap-dung-tu-khoa-tuyen-2024/)
-- Chi tiết ở [Khung Chương Trình Đào Tạo](thongbao/khung-chuong-trinh-dao-tao.md), hoặc dạng bảng phẳng [Khung Chương Trình Đào Tạo Liên Thông (2025)](uit/khung-chuong-trinh-dao-tao-lien-thong.md)
+- Chi tiết:
+    - ở [Khung Chương Trình Đào Tạo](thongbao/khung-chuong-trinh-dao-tao.md),
+    - hoặc dạng bảng phẳng [Khung Chương Trình Đào Tạo Liên Thông (2025)](uit/khung-chuong-trinh-dao-tao-lien-thong.md),
+    - hoặc xem mindmap tại [khung-chuong-trinh-dao-tao.html](thongbao/khung-chuong-trinh-dao-tao.html).
 
 Mô hình:
 
